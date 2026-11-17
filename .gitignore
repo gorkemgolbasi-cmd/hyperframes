@@ -122,6 +122,8 @@ packages/studio/data/
 
 .claude/*
 !.claude/settings.json
+!.claude/agents
+!.claude/commands
 !.claude/skills
 .claude/skills/*
 !.claude/skills/README.md
